@@ -5,13 +5,6 @@ A small implementation of a Vector Store using Numpy to understand the working o
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)# Vector Store
-
-A small implementation of a Vector Store using Numpy to understand the working of semantic search with support for multiple similarity metrics.
-
-## Table of Contents
-
-- [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
